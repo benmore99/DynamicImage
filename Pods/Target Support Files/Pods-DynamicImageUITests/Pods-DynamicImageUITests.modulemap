@@ -1,0 +1,6 @@
+framework module Pods_DynamicImageUITests {
+  umbrella header "Pods-DynamicImageUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
